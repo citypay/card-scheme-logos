@@ -2,6 +2,19 @@
 
 Card scheme logos used throughout our products and services including eps and Illustrator sources.
 
+## Formulation
+
+Each card scheme is assigned a unique id as
+
+- `am` American Express
+- `dn` Diners
+- `jc` JCB
+- `ma` Maestro
+- `mc` Mastercard
+- `vs` Visa
+
+Each logo is created with the pattern of `cs-logo-{id}-{size}.{filetype}`
+
 ## Mastercard
 ![mc-tiny](gif/cs-logo-mc-tiny.gif)
 ![mc-small](gif/cs-logo-mc-small.gif)

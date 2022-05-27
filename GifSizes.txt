@@ -1,0 +1,25 @@
+update card scheme icons for website
+
+Amex
+Diners
+JCB
+Mastercard
+Maestro
+Visa
+Visa Electron
+
+securecode 
+vbv
+
+xlarge 144x88
+large 74x46
+medium 54x34
+small 35x22
+tiny 27x17
+
+new sizes as png - 125, 250
+
+name format is 
+ cs-logo-{abbrev}-{size}.gif
+
+ 
